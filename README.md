@@ -1,4 +1,4 @@
-# Pursuit-Core-iOS-Keyboard-Handling-Lab
+# iOS-Keyboard-Handling-Lab
 
 ## Login Screen
 
